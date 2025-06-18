@@ -16,7 +16,7 @@ services:
       - "7474:7474"   # Browser
       - "7687:7687"   # Bolt
     environment:
-      - NEO4J_AUTH=neo4j/test
+      - NEO4J_AUTH=neo4j/longerpass123
 
   jupyter:
     build: .

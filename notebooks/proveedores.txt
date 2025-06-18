@@ -1,0 +1,1 @@
+{'_id': ObjectId('68534a740a9aca7a5fcead02'), 'cuit': '30-66060817-5', 'razon_social': 'Proveedores Tecnología SA', 'activo': True, 'habilitado': True}
