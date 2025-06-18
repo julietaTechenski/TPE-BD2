@@ -1,0 +1,4 @@
+jupyterlab
+pandas
+pymongo
+neo4j

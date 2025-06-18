@@ -1,0 +1,14 @@
+{
+  "name": "backoffice-nosql",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "jupyter",
+  "workspaceFolder": "/home/jovyan/work",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "forwardPorts": [8888, 7474],
+  "postCreateCommand": "pip install -r /home/jovyan/work/requirements.txt"
+}
