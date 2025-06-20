@@ -25,8 +25,11 @@ Este repositorio contiene un proyecto de base de datos con Python, Neo4j y Mongo
 Una vez iniciado el Codespace:
 
 1. En la terminal de VS Code (ya abierta por defecto), Jupyter Lab se inicia automáticamente gracias al `Dockerfile`.
-2. Abrir el **puerto 8888** haciendo clic en el botón **"Ports"** en la parte inferior de Codespaces.
-3. Buscar el puerto `8888` (estado: "Open in Browser") y hacer clic en "Open in Browser" (icono del mundo).
+2. Es importante asegurarse que la carpeta padre del proyecto es **TPE-BD2**.
+3. Abrir el **puerto 8888** haciendo clic en el botón **"Ports"** en la parte inferior de Codespaces.
+4. Buscar el puerto `8888` (estado: "Open in Browser") y hacer clic en "Open in Browser" (icono del mundo).
+5. En caso de que no se muestre el Dockerfile, el proyecto no se abrió correctamente.  Para solucionar eso, en la barra superior de busqueda poner “>Abrir carpeta” y seleccionar la carpeta /workspaces/TPE-BD2/
+
 
 Esto abrirá Jupyter Lab en una pestaña del navegador.
 
