@@ -28,6 +28,8 @@ Una vez iniciado el Codespace:
 2. Es importante asegurarse que la carpeta padre del proyecto es **TPE-BD2**.
 3. Abrir el **puerto 8888** haciendo clic en el botón **"Ports"** en la parte inferior de Codespaces.
 4. Buscar el puerto `8888` (estado: "Open in Browser") y hacer clic en "Open in Browser" (icono del mundo).
+5. En caso de que no se muestre el Dockerfile, el proyecto no se abrió correctamente.  Para solucionar eso, en la barra superior de busqueda poner “>Abrir carpeta” y seleccionar la carpeta /workspaces/TPE-BD2/
+
 
 Esto abrirá Jupyter Lab en una pestaña del navegador.
 
